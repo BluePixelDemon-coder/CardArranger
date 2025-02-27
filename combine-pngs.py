@@ -56,7 +56,6 @@ def load_images(folder):
     images = []
     for file in image_files:
         img_path = os.path.join(folder, file)
-        # image = Image.open(img_path).convert("RGBA")  # Keep transparency
         images.append(img_path)
 
     return images
@@ -69,8 +68,9 @@ for i, img in enumerate(load_images("images")):
    img1 = Image.open(img).convert("RGBA")
    aspect_ratio = img1.height / img1.width
    registration_corner_img = Image.open("registration-corners-only.png").convert("RGBA")
-   c.setPageSize((registration_corner_img.width, registration_corner_img.height))
    combine_images("registration-corners-only.png", img, f"result_{i}.png", 1830)
-   c.drawImage(f"result_{i}.png", 0, 0, width=registration_corner_img.width, height=registration_corner_img.height)
+   result_img = Image.open(f"result_{i}.png").convert("RGBA")
+   c.setPageSize((result_img.width, result_img.height))
+   c.drawImage(f"result_{i}.png", 0, 0, width=result_img.width, height=result_img.height)
    c.showPage()
 c.save()
