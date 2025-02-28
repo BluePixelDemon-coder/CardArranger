@@ -1,12 +1,97 @@
-1 Forest (DFT) 289
-1 Fallen Angel (OLEP) 14
-1 Sol Ring (PIP) 239
-1 Mountain (SLD) 1366
-1 Shark (TDSC) 4
-1 Spirit (DDQ) 79
-1 Gix's Caress (BRO) 96
-1 Hydra (SLD) 1334
-1 Coercion (9ED) 118
-1 Duress (FDN) 606
-1 Withdraw (PCY) 54
-1 Arcane Denial (SLD) 1545
+1 Arcane Signet (ELD) 331
+1 Ash Barrens (DRC) 147
+1 Barbflare Gremlin (DSC) 26
+1 Basilisk Collar (FDN) 669
+1 Bastion of Remembrance (IKO) 73
+1 Bedevil (RNA) 157
+1 Blackcleave Cliffs (ONE) 248
+1 Blasphemous Act (ISD) 130
+1 Blood Artist (AVR) 86
+1 Blood Pact (MID) 88
+1 Blood Seeker (M12) 81
+1 Bloodfell Caves (DFT) 251
+1 Braids, Arisen Nightmare (DMU) 84
+1 Brash Taunter (M21) 133
+1 Canyon Slough (AKH) 239
+1 Chaos Warp (DRC) 48
+1 Combustible Gearhulk (KLD) 112
+1 Command Tower (ELD) 333
+1 Decree of Pain (SCG) 64
+1 Dragonskull Summit (XLN) 252
+1 Enchanter's Bane (DSC) 164
+1 Evolving Wilds (FDN) 262
+1 Exotic Orchard (CON) 142
+1 Falkenrath Noble (ISD) 100
+1 Fate Unraveler (BNG) 68
+1 Fear of Burning Alive (DSK) 135
+1 Feed the Swarm (C21) 144
+1 Fellwar Stone (9ED) 297
+1 Florian, Voldaren Scion (MID) 223
+1 Foreboding Ruins (SOI) 272
+1 Geothermal Bog (DMU) 247
+1 Gleeful Arsonist (DSC) 27
+1 Grab the Prize (DSK) 138
+1 Graven Cairns (SHM) 272
+1 Gray Merchant of Asphodel (THB) 99
+1 Harsh Mentor (AKH) 135
+1 Infernal Grasp (INR) 310
+1 Kaervek the Merciless (TSP) 242
+1 Kardur, Doomscourge (KHM) 216
+1 Kederekt Parasite (CON) 48
+1 Leechridden Swamp (SHM) 273
+1 Light Up the Stage (RNA) 107
+1 Lightning Greaves (M3C) 298
+1 Mask of Griselbrand (MID) 111
+1 Massacre Girl (RVR) 83
+1 Massacre Wurm (MOC) 256
+1 Mayhem Devil (WAR) 204
+1 Mind Stone (10E) 335
+1 Mogis, God of Slaughter (DSC) 89
+1 Morbid Opportunist (MID) 113
+8 Mountain (J25) 92
+1 Nightshade Harvester (DSC) 150
+1 Persistent Constrictor (DSC) 22
+1 Rakdos Charm (RTR) 184
+1 Rakdos Signet (DIS) 165
+1 Rakdos, Lord of Riots (RTR) 187
+1 Rampaging Ferocidon (XLN) 154
+1 Sadistic Shell Game (DSC) 24
+1 Séance Board (DSC) 40
+1 Shadowblood Ridge (ODY) 326
+1 Shivan Gorge (DSC) 297
+1 Sign in Blood (SCD) 107
+1 Smoldering Marsh (BFZ) 247
+1 Sol Ring (M3C) 305
+1 Solemn Simulacrum (FDN) 257
+1 Spiked Corridor (DSC) 28
+1 Spinerock Knoll (LRW) 274
+1 Spiteful Visions (SHM) 198
+1 Star Athlete (DSC) 29
+1 Stormfist Crusader (ELD) 203
+1 Sulfurous Springs (DMU) 256
+1 Suspended Sentence (DSC) 25
+8 Swamp (J25) 88
+1 Syr Konrad, the Grim (ELD) 107
+1 Tainted Peak (PIP) 300
+1 Talisman of Indulgence (MRD) 255
+1 Tectonic Giant (THB) 158
+1 Temple of Malice (FDN) 701
+1 Temple of the False God (40K) 300
+1 Terramorphic Expanse (DSK) 269
+1 The Lord of Pain (DSC) 3
+1 Theater of Horrors (RNA) 213
+1 Thought Vessel (DSC) 256
+1 Valgavoth, Harrower of Souls (DSC) 6
+1 Vial Smasher the Fierce (DSC) 239
+1 Witch's Clinic (DSC) 325
+1 Fear My Authority (DSC) 333
+1 I Call for Slaughter (DSC) 337
+1 I Will Savor Your Agony (DSC) 338
+1 My Crushing Masterstroke (DSC) 342
+1 No Secret Is Hidden from Me (DSC) 349
+1 Reality Is Mine to Control (DSC) 354
+1 Running Is Useless (DSC) 356
+1 When Will You Learn? (DSC) 358
+1 You Exist Only to Amuse (DSC) 361
+1 Your Nightmares Are Delicious (DSC) 365
+4 Arcane Denial (SLD) 1545
